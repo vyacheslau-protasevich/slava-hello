@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=slava-hello)
 ____
 # Some inforamtion about me:alien:
-I'm 17years old Python Developer from  <img src="https://user-images.githubusercontent.com/72095404/157497972-b362c1bc-7e87-4ad1-afeb-4a8262de3abb.png" width="13"/>  Minsk, Belrus.
+I'm 17 years old Python Developer from  <img src="https://user-images.githubusercontent.com/72095404/157497972-b362c1bc-7e87-4ad1-afeb-4a8262de3abb.png" width="13"/>  Minsk, Belrus.
 
 - 🎸 I speak in English and Russian
 - 💪 I like to write code
