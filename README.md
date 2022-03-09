@@ -36,18 +36,21 @@ I've used such technologies as
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <p/>
 
+<details>
+  <summary>:zap: Statistics:</summary>
+   
 
-# GitHub Stats :smirk:
+## GitHub Stats :smirk:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=slava-hello&theme=radical&show_icons=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=slava-hello&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slava-hello&layout=compact)](https://github.com/slava-hello/github-readme-stats)-->
 
-# Stats from other sites 🎓
+## Stats from other sites 🎓
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16715636&layout=compact&theme=dark)](https://stackoverflow.com/users/16715636/slava)
 [![codewars](https://www.codewars.com/users/Slava48/badges/large)](https://www.codewars.com/users/Slava48)
 
-
+</details>
 
 
 ## Connect with me ☎️
