@@ -15,7 +15,6 @@ I'm 17years old guy from  <img src="https://user-images.githubusercontent.com/72
 I've used such technologies as
 - Game development with Unity
 - Computer vision with python OpenCv
-- Blockchain technologies (made a simple MVP blockchain on python and tested id with postman)
 - Working with API like TMDB, VTope or Telegram API
 - Heroku (deployed Telegram bot)
 - MySQL and PostgreSQL databases
