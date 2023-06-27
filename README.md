@@ -43,8 +43,8 @@ I've used such technologies as
    
 
 ## GitHub Stats :smirk:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=slava-hello&theme=radical&show_icons=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=slava-hello&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vyacheslau-protasevich&theme=radical&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vyacheslau-protasevich&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slava-hello&layout=compact)](https://github.com/slava-hello/github-readme-stats)-->
 
 ## Stats from other sites 🎓
