@@ -2,8 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=4000&width=1000&height=100&lines=Hey+there+%F0%9F%91%8B;I'm+Slava)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=slava-hello)
 ____
-# Some inforamtion about me:alien:
-I'm 18 y. o. ML Engineer.
+# Some inforamtion about me
+I'm 19 y. o. ML Engineer.
 
 - 🗣️ Languages: Russian (native), English (C1)
 - 📖 I'm fond of exploring new things
